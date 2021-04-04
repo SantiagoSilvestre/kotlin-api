@@ -11,7 +11,7 @@ data class Funcionario (
             Salário: $salario
         """.trimIndent()
     fun separar(separar: String) {
-        println("-------$separar")
+        println("-------$separar ----------")
     }
 
 }
